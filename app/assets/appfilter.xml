@@ -3189,7 +3189,6 @@
   <item component="ComponentInfo{io.chameleon.ultra/io.chameleon.ultra.MainActivity}" drawable="chameleon_ultra_gui" name="Chameleon Ultra GUI" />
   <item component="ComponentInfo{com.hkfuliao.chamet/com.oversea.chat.splash.SplashActivity}" drawable="chamet" name="Chamet" />
   <item component="ComponentInfo{com.uefa.ucl/com.uefa.ucl.ui.MainActivity}" drawable="champions_league" name="Champions League" />
-  <item component="ComponentInfo{ru.ideast.championat/ru.ideast.championat.MainActivity}" drawable="championat" name="Чемпионат" />
   <item component="ComponentInfo{net.xnano.android.changemymac/net.xnano.android.changemymac.MainActivity}" drawable="change_my_mac" name="Change My MAC" />
   <item component="ComponentInfo{com.changiairport.cagapp/com.changiairport.cagapp3.MainActivity}" drawable="changi_airport" name="Changi Airport" />
   <item component="ComponentInfo{com.channel4.ondemand/com.novoda.all4.launch.LaunchActivity}" drawable="channel_4" name="Channel 4" />
@@ -5517,7 +5516,6 @@
   <item component="ComponentInfo{com.fidosolutions.myaccount/com.fido.genesis.ui.splash.SplashActivity}" drawable="fido" name="Fido" />
   <item component="ComponentInfo{nl.vv.fietsknoop/nl.vv.fietsknoop.StartActivity}" drawable="fietsknoop" name="Fietsknoop" />
   <item component="ComponentInfo{com.fifa.plus.android/com.fifa.mobile.SplashActivity}" drawable="fifa_plus" name="FIFA+" />
-  <item component="ComponentInfo{com.fifa.tournament/com.fifa.tournament.ui.MainActivity}" drawable="fifa_2026" name="FIFA World Cup" />
   <item component="ComponentInfo{com.wgkammerer.testgui.basiccharactersheet.app/com.wgkammerer.testgui.basiccharactersheet.app.MainActivity}" drawable="fifth_edition_character_sheet" name="Fifth Edition Character Sheet" />
   <item component="ComponentInfo{com.fig/com.fig.MainActivity}" drawable="fig" name="Fig" />
   <item component="ComponentInfo{com.figma.mirror/com.figma.figma.MainActivity2}" drawable="figma" name="Figma" />
