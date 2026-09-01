@@ -13359,6 +13359,7 @@
   <item component="ComponentInfo{com.ovpnspider/com.ovpnspider.Welcome}" drawable="ovpnspider" name="OvpnSpider" />
   <item component="ComponentInfo{com.owletcare.owletcare/com.owletcare.owletcare.SplashActivity}" drawable="owlet_dream" name="Owlet Care" />
   <item component="ComponentInfo{com.owletcare.sleep/com.owletcare.owletcare.SplashActivity}" drawable="owlet_dream" name="Owlet Dream" />
+  <item component="ComponentInfo{org.owenewans.owenclave/io.nekohasekai.sagernet.ui.compose.ComposeMainActivity}" drawable="owenclave" name="Owenclave" />
   <item component="ComponentInfo{com.owncloud.android/com.owncloud.android.ui.activity.SplashActivity}" drawable="owncloud" name="ownCloud" />
   <item component="ComponentInfo{com.bintianqi.owndroid/com.bintianqi.owndroid.MainActivity}" drawable="netguard" name="OwnDroid" />
   <item component="ComponentInfo{org.owntracks.android/org.owntracks.android.ui.map.MapActivity}" drawable="owntracks" name="OwnTracks" />
@@ -16051,6 +16052,7 @@
   <item component="ComponentInfo{cn.ninebot.ninebot/cn.ninebot.ninebot.mainshell.SplashActivity}" drawable="segway_mobility" name="Segway Mobility" />
   <item component="ComponentInfo{com.segway.orv/com.segway.orv.SplashActivity}" drawable="segway_mobility" name="Segway Powersports" />
   <item component="ComponentInfo{saurabhrao.selfattendance/saurabhrao.selfattendance.MainActivity}" drawable="self_attendance" name="Self Attendance" />
+  <item component="ComponentInfo{com.manageengine.mdm.android/com.manageengine.mdm.framework.ui.SplashUI}" drawable="memdm" name="Self Service" />
   <item component="ComponentInfo{com.asmat.semerutrans/com.asmat.semerutrans.MainActivity}" drawable="semeru_trans" name="Semeru Trans" />
   <item component="ComponentInfo{edu.senati.app/edu.senati.app.MainActivity}" drawable="senati" name="SENATI" />
   <item component="ComponentInfo{com.estmob.android.sendanywhere/com.estmob.paprika4.activity.SplashActivity}" drawable="send_anywhere" name="Send Anywhere" />
@@ -21502,6 +21504,7 @@
   <item component="ComponentInfo{ru.sportmaster.app/ru.sportmaster.app.activity.MainActivity}" drawable="sportmaster" name="Спортмастер ~~ Sportmaster" />
   <item component="ComponentInfo{ru.sportmaster.app/ru.sportmaster.app.presentation.start.StartActivity}" drawable="sportmaster" name="Спортмастер ~~ Sportmaster" />
   <item component="ComponentInfo{ru.sravni.android.bankproduct/ru.sravni.android.marketplace.SravniMainActivity}" drawable="sravni" name="Сравни ~~ Sravni" />
+  <item component="ComponentInfo{ru.sutochno_redesign/ru.sutochno.android.ui.activity.LauncherActivity}" drawable="sutochno" name="Суточно.ру ~~ Sutochno" />
   <item component="ComponentInfo{ru.devcluster.sushiwok/ru.devcluster.sushiwok.ui.activities.MainActivity}" drawable="sushi_wok" name="Суши Wok ~~ Sushi Wok" />
   <item component="ComponentInfo{ua.silpo.android/ua.silpo.flutter_app.MainActivity}" drawable="silpo" name="Сільпо ~~ Silpo" />
   <item component="ComponentInfo{com.idamob.tinkoff.android/ru.tcsbank.mb.ui.activities.SplashActivity}" drawable="t_bank" name="Т-Банк ~~ T-Bank" />
@@ -21516,6 +21519,7 @@
   <item component="ComponentInfo{ru.technopark.app/ru.technopark.app.presentation.main.MainActivity}" drawable="technopark" name="Технопарк ~~ Technopark" />
   <item component="ComponentInfo{ru.tns.tnsmobile/ru.tns.tnsmobile.MainActivity}" drawable="tns_energo" name="ТНС энерго ~~ TNS Energo" />
   <item component="ComponentInfo{ru.tns.tnsmobile/ru.tns.tnsmobile.StartActivity}" drawable="tns_energo" name="ТНС энерго ~~ TNS Energo" />
+  <item component="ComponentInfo{com.trueconf.videochat/com.trueconf.gui.activities.Splash}" drawable="trueconf" name="Труконф ~~ TrueConf" />
   <item component="ComponentInfo{cb.ibank/cb.ibank.activities.RapportoActivity}" drawable="ubrr" name="УБРиР ~~ UBRR" />
   <item component="ComponentInfo{ru.raiffeisen.capitalapp/ru.raiffeisen.capitalapp.MainActivity}" drawable="raiffeisen_bank" name="УК Райффайзен ~~ Raiffeisen Capital" />
   <item component="ComponentInfo{ua.gov.uz/com.ua.railways.ui.splash.SplashActivity}" drawable="ukrainian_railways" name="Укрзалізниця ~~ Ukrainian Railways" />
