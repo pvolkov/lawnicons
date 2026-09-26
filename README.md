@@ -21,7 +21,7 @@ Lawnicons is a free, community-driven, open-source icon pack built by the Lawnch
 
 In Lawnchair, you can enable themed icons under `Home Settings` → `General` → `Icon Style`.
 
-[Try Lawnchair](https://github.com/LawnchairLauncher/lawnchair#download)
+[Try Lawnchair](https://github.com/LawnchairLauncher/lawnchair#download) • [Leave feedback](https://forms.gle/DLiBCVUtLz99GJzH9)
 
 ## Download
 
@@ -47,15 +47,15 @@ Lawnicons on the Play Store will install as a different app from other sources.
 > [!IMPORTANT]
 > Help us develop Lawnicons and create more icons.
 
-### Request priority
-Supporter icon requests are fulfilled many times faster.
+### Increase request priority
+Supporter icon requests are fulfilled many times faster, with at least 25 non-easy or 100 easy icons fulfilled per quarter across all supporters.
 
 [Support on Open Collective](https://opencollective.com/lawnchair) • [Submit supporter request](https://github.com/LawnchairLauncher/lawnicons/issues/new?template=submit_supporter_request.yml)
 
 ### Say thanks
-Extra icons in every release, thanks to you.
+A way to show appreciation.
 
-[Fund community requests](https://opencollective.com/lawnchair/projects/lawnicons) • [View funded contributions](https://github.com/LawnchairLauncher/lawnicons/pulls?q=is%3Apr+label%3AOC+is%3Aclosed)
+[Donate](https://opencollective.com/lawnchair/projects/lawnicons) • [View funded contributions](https://github.com/LawnchairLauncher/lawnicons/pulls?q=is%3Apr+label%3AOC+is%3Aclosed)
 
 ## Contributing
 <div align="left">
@@ -73,9 +73,9 @@ You're welcome to work on our issues.
 [Developer wiki](https://github.com/LawnchairLauncher/lawnicons/wiki)
 
 ### Icons
-Study the Lawnicons design guidelines and start with 1–2 icons to avoid unnecessary rework later. You can contribute: up to 5 new icons per PR, missing app IDs, and updates for outdated icons.  
+Study the design guidelines and contribute up to 5 new icons per PR.  
 
-[Design guidelines](https://github.com/LawnchairLauncher/lawnicons/blob/develop/CONTRIBUTING.md#contributing-icons-tldr) • [Report outdated icons](https://github.com/LawnchairLauncher/lawnicons/issues/new?template=report_outdated_icons.yml)
+[Design guidelines](https://github.com/LawnchairLauncher/lawnicons/blob/develop/CONTRIBUTING.md#contributing-icons-tldr) • [About icon reviews](https://github.com/LawnchairLauncher/lawnicons/blob/1438b7a35840fb94513e2474ec895dce717ab86d/CONTRIBUTING.md#icon-reviews)
 
 ### Icon requests
 
