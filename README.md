@@ -44,9 +44,6 @@ Lawnicons on the Play Store will install as a different app from other sources.
 
 ## Support Lawnicons
 
-> [!IMPORTANT]
-> Help us develop Lawnicons and create more icons.
-
 ### Increase request priority
 Supporter icon requests are fulfilled many times faster, with at least 25 non-easy or 100 easy icons fulfilled per quarter across all supporters.
 
@@ -73,9 +70,9 @@ You're welcome to work on our issues.
 [Developer wiki](https://github.com/LawnchairLauncher/lawnicons/wiki)
 
 ### Icons
-Study the design guidelines and contribute up to 5 new icons per PR.  
+To add icons, you need to know the Lawnicons design guidelines, vector graphics, and some GitHub. Contribute up to 5 new icons per PR.  
 
-[Design guidelines](https://github.com/LawnchairLauncher/lawnicons/blob/develop/CONTRIBUTING.md#contributing-icons-tldr) • [About icon reviews](https://github.com/LawnchairLauncher/lawnicons/blob/1438b7a35840fb94513e2474ec895dce717ab86d/CONTRIBUTING.md#icon-reviews)
+[Contributing icons](https://github.com/LawnchairLauncher/lawnicons/blob/develop/CONTRIBUTING.md#contributing-icons-tldr) • [About icon reviews](https://github.com/LawnchairLauncher/lawnicons/blob/develop/CONTRIBUTING.md#icon-reviews)
 
 ### Icon requests
 
