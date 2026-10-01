@@ -14551,6 +14551,7 @@
   <item component="ComponentInfo{au.com.shiftyjelly.pocketcasts/au.com.shiftyjelly.pocketcasts.ui.MainActivity_8}" drawable="pocket_casts" name="Pocket Casts" />
   <item component="ComponentInfo{au.com.shiftyjelly.pocketcasts/au.com.shiftyjelly.pocketcasts.ui.MainActivity_9}" drawable="pocket_casts" name="Pocket Casts" />
   <item component="ComponentInfo{au.com.shiftyjelly.pocketcasts/au.com.shiftyjelly.pocketcasts.ui.MainActivity}" drawable="pocket_casts" name="Pocket Casts" />
+  <item component="ComponentInfo{au.com.shiftyjelly.pocketcasts/au.com.shiftyjelly.pocketcasts.ui.MainActivityDefault}" drawable="pocket_casts" name="Pocket Casts" />
   <item component="ComponentInfo{au.com.shiftyjelly.pocketcasts/au.com.shiftyjelly.pocketcasts.ui.TabWidget}" drawable="pocket_casts" name="Pocket Casts" />
   <item component="ComponentInfo{com.codebrewgames.pocketcity/com.codebrewgames.pocketcity.MainActivity}" drawable="pocket_city" name="Pocket City" />
   <item component="ComponentInfo{com.codebrewgames.pocketcitygame/com.codebrewgames.pocketcitygame.MainActivity}" drawable="pocket_city" name="Pocket City" />
