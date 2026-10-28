@@ -4,15 +4,14 @@
 
 <h1 align="center" style="margin-top: 0px;">Lawnicons</h1>
 
-<div align="center">    
-  <a href="https://github.com/LawnchairLauncher/lawnicons/blob/develop/LICENSE">
-    <img alt="GitHub License" src="https://img.shields.io/github/license/LawnchairLauncher/Lawnicons?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0nMS4wJyBlbmNvZGluZz0ndXRmLTgnPz48c3ZnIHdpZHRoPSc4MDBweCcgaGVpZ2h0PSc4MDBweCcgdmlld0JveD0nMCAwIDI0IDI0JyBmaWxsPSdub25lJyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjxwYXRoIGQ9J00xOSAzSDlWM0M3LjExNDM4IDMgNi4xNzE1NyAzIDUuNTg1NzkgMy41ODU3OUM1IDQuMTcxNTcgNSA1LjExNDM4IDUgN1YxMC41VjE3JyBzdHJva2U9JyNGRkZGRkYnIHN0cm9rZS13aWR0aD0nMicgc3Ryb2tlLWxpbmVjYXA9J3JvdW5kJyBzdHJva2UtbGluZWpvaW49J3JvdW5kJy8+PHBhdGggZD0nTTE0IDE3VjE5QzE0IDIwLjEwNDYgMTQuODk1NCAyMSAxNiAyMVYyMUMxNy4xMDQ2IDIxIDE4IDIwLjEwNDYgMTggMTlWOVY0LjVDMTggMy42NzE1NyAxOC42NzE2IDMgMTkuNSAzVjNDMjAuMzI4NCAzIDIxIDMuNjcxNTcgMjEgNC41VjQuNUMyMSA1LjMyODQzIDIwLjMyODQgNiAxOS41IDZIMTguNScgc3Ryb2tlPScjRkZGRkZGJyBzdHJva2Utd2lkdGg9JzInIHN0cm9rZS1saW5lY2FwPSdyb3VuZCcgc3Ryb2tlLWxpbmVqb2luPSdyb3VuZCcvPjxwYXRoIGQ9J00xNiAyMUg1QzMuODk1NDMgMjEgMyAyMC4xMDQ2IDMgMTlWMTlDMyAxNy44OTU0IDMuODk1NDMgMTcgNSAxN0gxNCcgc3Ryb2tlPScjRkZGRkZGJyBzdHJva2Utd2lkdGg9JzInIHN0cm9rZS1saW5lY2FwPSdyb3VuZCcgc3Ryb2tlLWxpbmVqb2luPSdyb3VuZCcvPjxwYXRoIGQ9J005IDdIMTQnIHN0cm9rZT0nI0ZGRkZGRicgc3Ryb2tlLXdpZHRoPScyJyBzdHJva2UtbGluZWNhcD0ncm91bmQnIHN0cm9rZS1saW5lam9pbj0ncm91bmQnLz48cGF0aCBkPSdNOSAxMUgxNCcgc3Ryb2tlPScjRkZGRkZGJyBzdHJva2Utd2lkdGg9JzInIHN0cm9rZS1saW5lY2FwPSdyb3VuZCcgc3Ryb2tlLWxpbmVqb2luPSdyb3VuZCcvPjwvc3ZnPg==&color=43444B"></a>
-  <a href="https://github.com/LawnchairLauncher/lawnicons/actions/workflows/build_debug_apk.yml">
+<div align="center">
     <img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/LawnchairLauncher/lawnicons/build_debug_apk.yml?branch=develop&label=Debug%20APK&logo=github&color=3F9E00"></a>
   <a href="https://github.com/LawnchairLauncher/lawnicons/actions/workflows/build_release_apk.yml">
     <img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/LawnchairLauncher/lawnicons/build_release_apk.yml?label=Release%20APK&logo=github&color=3F9E00"></a>
   <a href="https://discord.gg/3x8qNWxgGZ">
-    <img alt="Discord" src="https://img.shields.io/discord/803299970169700402?logo=discord&logoColor=white&label=Discord&color=5165f6"></a>    
+    <img alt="Discord" src="https://img.shields.io/discord/803299970169700402?logo=discord&logoColor=white&label=Discord&color=5165f6"></a>
+  <a href="https://t.me/lccommunity">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-0088CC?logo=telegram&logoColor=ffffff"></a>    
 </div>
 
 <br/>
@@ -44,15 +43,12 @@ Lawnicons on the Play Store will install as a different app from other sources.
 
 ## Support Lawnicons
 
-### Increase request priority
-Requests from Lawnicons supporters get fulfilled much faster than if you just wait.
+> [!Important]
+> Priority requests are open until April 2027.
 
-[Support on Open Collective](https://opencollective.com/lawnchair) • [Submit supporter request](https://github.com/LawnchairLauncher/lawnicons/issues/new?template=submit_supporter_request.yml)
+Requests from Lawnchair supporters get fulfilled much faster than if you just wait. 
 
-### Say thanks
-A way to show appreciation.
-
-[Donate](https://opencollective.com/lawnchair/projects/lawnicons) • [View funded contributions](https://github.com/LawnchairLauncher/lawnicons/pulls?q=is%3Apr+label%3AOC+is%3Aclosed)
+[Support on Open Collective](https://opencollective.com/lawnchair) • [Become a sponsor on GitHub](https://github.com/sponsors/LawnchairLauncher) • [Submit supporter request](https://github.com/LawnchairLauncher/lawnicons/issues/new?template=submit_supporter_request.yml)
 
 ## Contributing
 <div align="left">
@@ -65,14 +61,14 @@ A way to show appreciation.
 </div> 
 
 ### Development
-You're welcome to work on our issues.  
+You're welcome to work on our issues. In exchange for resolving issues, we fulfill simple icon requests — yours or from the public queue.
 
-[Developer wiki](https://github.com/LawnchairLauncher/lawnicons/wiki)
+[Developer wiki](https://github.com/LawnchairLauncher/lawnicons/wiki) • [Contribution quality](https://docs.lawnchair.app/community/about/quality-guidelines)
 
 ### Icons
-To add icons, you need to know the Lawnicons design guidelines, vector graphics, and some GitHub. Contribute up to 5 new icons per PR. The maintainer does reviews around Saturday.
+To add icons, you need to know the Lawnicons design guidelines, vector graphics, and some GitHub. Contribute up to 5 new icons per PR. The maintainer does reviews around Saturday, with a limit of 100 icons per quarter.
 
-[Design guidelines](https://github.com/LawnchairLauncher/lawnicons/blob/develop/docs/design_guidelines.md) • [Contributing icons](https://github.com/LawnchairLauncher/lawnicons/blob/develop/CONTRIBUTING.md#contributing-icons) • [About icon reviews](https://github.com/LawnchairLauncher/lawnicons/blob/develop/CONTRIBUTING.md#icon-reviews)
+[Design guidelines](https://github.com/LawnchairLauncher/lawnicons/blob/develop/docs/design_guidelines.md) • [Contributing icons](https://github.com/LawnchairLauncher/lawnicons/blob/develop/CONTRIBUTING.md#contributing-icons) • [Review stats](https://github.com/LawnchairLauncher/lawnicons/issues?q=is%3Aissue+state%3Aopen+review+stats)
 
 ### Icon requests
 

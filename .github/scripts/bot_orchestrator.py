@@ -24,11 +24,11 @@ SVG_LINTER_PATH = SCRIPT_REPO_ROOT / "lint_icons.py"
 NAME_CHECKER_PATH = SCRIPT_REPO_ROOT / ".github/scripts/name_checker.py"
 
 BOT_SIGNATURE = "<!-- Linter bot report -->"
-NEEDS_REVIEW_LABEL = "needs review"
+NEEDS_REVIEW_LABEL = ":hourglass_flowing_sand:"
 
 SPEC_MESSAGE = """> [!TIP]
 > **Spec**
-> canvas: 192×192 px, color: #000000, opacity: 100%, shadow or effect: none, stroke: 12 px (core), fill: none, size: max 3 KB"""
+> canvas: 192×192 px • icon size: 160 px (W or H, incl. stroke) • square icon size: 154×154 px • color: #000000 • opacity: 100% • shadow or effect: none • stroke: 12 px (core) • fill: none • caps and joins: rounded • 90° corners: rounded (6+ px) • size: max 3 KB"""
 
 # --- Main Logic ---
 
@@ -277,7 +277,7 @@ def build_comment_body(file_messages: dict[str, list[dict[str, str]]], is_first_
             lines.append("Thanks for your contribution!\n")
             lines.append("Please fix all common issues and ensure Lawnicons builds correctly.\n")
         
-        lines.append("### Common issues\n")
+        lines.append("## Make sure you don't have any of these issues\n")
         lines.append("![](https://raw.githubusercontent.com/LawnchairLauncher/lawnicons/refs/heads/develop/docs/images/common-issues-to-fix.png)\n")
         
         lines.append(BOT_SIGNATURE)
@@ -288,7 +288,7 @@ def build_comment_body(file_messages: dict[str, list[dict[str, str]]], is_first_
         lines.append("Thanks for your contribution!\n")
         lines.append("Please fix all bot-detected issues to get a human review — and the rest to merge. Ensure Lawnicons builds correctly.\n")
 
-    lines.append("### Bot-detected issues")
+    lines.append("## Bot-detected issues")
     lines.append(SPEC_MESSAGE + "\n")
 
     for filename in sorted(file_messages.keys()):
@@ -308,7 +308,7 @@ def build_comment_body(file_messages: dict[str, list[dict[str, str]]], is_first_
 
         lines.append(f"**{filename}**")
         if general_msgs:
-            lines.append(", ".join(general_msgs))
+            lines.append(" • ".join(general_msgs))
 
         for n_msg in naming_msgs:
             lines.append(n_msg)

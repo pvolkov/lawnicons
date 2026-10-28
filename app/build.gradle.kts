@@ -5,6 +5,7 @@ plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.compose)
     alias(libs.plugins.kotlin.serialization)
+    alias(libs.plugins.kotlin.parcelize)
     alias(libs.plugins.licensee)
     alias(libs.plugins.metro)
 }
@@ -19,7 +20,7 @@ val ciRunNumber = providers.environmentVariable("GITHUB_RUN_NUMBER").orNull.orEm
 val isReleaseBuild = ciBuild && ciRef.contains("main")
 val devReleaseName = if (ciBuild) "(Dev #$ciRunNumber)" else "($buildCommit)"
 
-val version = "2.18.0"
+val version = "2.19.0"
 val versionDisplayName = version + if (!isReleaseBuild) " $devReleaseName" else ""
 
 android {
@@ -30,9 +31,10 @@ android {
         applicationId = "app.lawnchair.lawnicons"
         minSdk = 26
         targetSdk = compileSdk
-        versionCode = 26
+        versionCode = 27
         versionName = versionDisplayName
         vectorDrawables.useSupportLibrary = true
+        buildConfigField("String", "COMMIT_HASH", "\"${buildCommit}\"")
     }
 
     androidResources {

@@ -5,7 +5,6 @@ import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.foundation.layout.WindowInsets
 import androidx.compose.foundation.layout.navigationBars
 import androidx.compose.foundation.layout.padding
-import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Text
 import androidx.compose.material3.TopAppBarDefaults
@@ -17,6 +16,7 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.dp
 import app.lawnchair.lawnicons.R
 import app.lawnchair.lawnicons.ui.components.NavigationIconButton
+import app.lawnchair.lawnicons.ui.components.ShowNavbarScrim
 import app.lawnchair.lawnicons.ui.theme.adaptiveSurfaceColor
 import app.lawnchair.lawnicons.ui.theme.icon.Back
 import app.lawnchair.lawnicons.ui.theme.icon.LawnIcons
@@ -24,7 +24,6 @@ import app.lawnchair.lawnicons.ui.util.PreviewLawnicons
 import app.lawnchair.lawnicons.ui.util.PreviewProviders
 import app.lawnchair.lawnicons.ui.util.toPaddingValues
 
-@OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun LawniconsScaffold(
     title: String,
@@ -77,6 +76,7 @@ fun LawniconsScaffold(
         ) {
             content(it)
         }
+        ShowNavbarScrim(isExpandedScreen = isExpandedScreen)
     }
 }
 
