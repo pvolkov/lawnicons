@@ -15214,6 +15214,7 @@
   <item component="ComponentInfo{com.pushbullet.android/com.pushbullet.android.ui.LaunchActivity}" drawable="pushbullet" name="Pushbullet" />
   <item component="ComponentInfo{com.puzzlegamesclassic.puzzlegame/org.cocos2dx.cpp.AppActivity}" drawable="puzzle_game" name="Puzzle Game" />
   <item component="ComponentInfo{com.netflix.NGP.Pandora/crc644281dc6551a170d3.MainActivity}" drawable="puzzled" name="Puzzled" />
+  <item component="ComponentInfo{com.pv4f.android/com.pv4f.android.MainActivity}" drawable="pv4f" name="PV4F" />
   <item component="ComponentInfo{com.net.pvr/com.net.pvr.ui.splash.SplashActivity}" drawable="pvr_cinemas" name="PVR Cinemas" />
   <item component="ComponentInfo{com.pw.learnos/app.lawnchair.LawnchairLauncher}" drawable="pw_learnos_launcher" name="PW LearnOS Launcher" />
   <item component="ComponentInfo{com.alif.ide.python/com.alif.app.AppActivity}" drawable="generic_braces" name="PyCode" />
