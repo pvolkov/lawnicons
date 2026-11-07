@@ -9,9 +9,9 @@
   <a href="https://github.com/LawnchairLauncher/lawnicons/actions/workflows/build_release_apk.yml">
     <img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/LawnchairLauncher/lawnicons/build_release_apk.yml?label=Release%20APK&logo=github&color=3F9E00"></a>
   <a href="https://discord.gg/3x8qNWxgGZ">
-    <img alt="Discord" src="https://img.shields.io/discord/803299970169700402?logo=discord&logoColor=white&label=Discord&color=5165f6"></a>
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=ffffff"></a>    
   <a href="https://t.me/lccommunity">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-0088CC?logo=telegram&logoColor=ffffff"></a>    
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-0088CC?logo=telegram&logoColor=ffffff"></a>
 </div>
 
 <br/>
@@ -66,7 +66,11 @@ You're welcome to work on our issues. In exchange for resolving issues, we fulfi
 [Developer wiki](https://github.com/LawnchairLauncher/lawnicons/wiki) • [Contribution quality](https://docs.lawnchair.app/community/about/quality-guidelines)
 
 ### Icons
-To add icons, you need to know the Lawnicons design guidelines, vector graphics, and some GitHub. Contribute up to 5 new icons per PR. The maintainer does reviews around Saturday, with a limit of 100 icons per quarter.
+
+> [!NOTE]
+> Reviews of icon PRs will resume in January, as we've reached this quarter's review limit.
+
+To add icons, you need to know the Lawnicons design guidelines, vector graphics, and some GitHub. Contribute up to 5 new icons per PR. If most icons in your latest merged PRs were flawless, you can submit up to 10. The maintainer does reviews around Saturday, with a limit of 100 icons per quarter.
 
 [Design guidelines](https://github.com/LawnchairLauncher/lawnicons/blob/develop/docs/design_guidelines.md) • [Contributing icons](https://github.com/LawnchairLauncher/lawnicons/blob/develop/CONTRIBUTING.md#contributing-icons) • [Review stats](https://github.com/LawnchairLauncher/lawnicons/issues?q=is%3Aissue+state%3Aopen+review+stats)
 
